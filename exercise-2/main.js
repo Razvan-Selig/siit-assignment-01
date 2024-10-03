@@ -12,8 +12,3 @@ if (num % 3 == 0 && num % 5 == 0) {
 }
 
 
-
-
-/* else {
-    alert(`${num} is not divisible with 3 or 5`)
-} */
